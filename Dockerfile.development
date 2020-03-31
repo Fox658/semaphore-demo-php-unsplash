@@ -1,6 +1,6 @@
 # Dockerfile.development
 FROM php:7-apache
-LABEL JuanCAA j.c.alvarez658@gmail.com
+LABEL foxblaze52 j.c.alvarez658@gmail.com
 
 # Setup Apache2 config
 COPY 000-default.conf /etc/apache2/sites-available/000-default.conf
